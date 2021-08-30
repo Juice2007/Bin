@@ -1,0 +1,2 @@
+# Bin
+FyreNodes - Public HasteBin
